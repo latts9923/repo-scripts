@@ -1,2 +1,0 @@
-v1.0.1 (2026-02-28)
-- Initial release for Kodi 19.x/20.x/21.x/22.
